@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layoutLinearDetalhar"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#e8e9fb"
+    android:orientation="vertical"
+    android:padding="5dp" >
+
+    <ImageView
+        android:id="@+id/imgOfertaDetalhar"
+        android:layout_width="fill_parent"
+        android:layout_height="220dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/ic_imagem_oferta" />
+
+    <TextView
+        android:id="@+id/txtTituloOfertaDetalhar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="15dp"
+        android:text="Título Oferta"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#000000"
+        android:textSize="25sp" />
+	
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:background="#e8e9fb"
+        android:orientation="horizontal"
+        android:padding="5dp" >
+            
+   		 <RelativeLayout 
+       		 android:layout_width="match_parent"
+       		 android:layout_height="wrap_content"
+     		 android:background="#e8e9fb"
+     		   >
+        	
+   		    <RatingBar
+    	    	android:id="@+id/rtBarAvaliacoes"
+    	    	style="?android:attr/ratingBarStyleSmall"
+    	    	android:layout_width="wrap_content"
+    	    	android:layout_height="wrap_content"
+    	    	android:layout_centerVertical="true"
+    	    	android:layout_alignParentLeft="true"
+    	    	android:layout_marginTop="5dp" />
+
+    		<TextView
+    		    android:id="@+id/txtPrecoOfertaDetalhe"
+    		    android:layout_width="wrap_content"
+    		    android:layout_height="wrap_content"
+    		    android:layout_centerVertical="true"
+    		    android:layout_alignParentRight="true"
+    		    android:text="R$ 000,00"
+    		    android:textAppearance="?android:attr/textAppearanceMedium"
+    		    android:textColor="#8B0000" />
+        
+  		  </RelativeLayout>
+    
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/txtOndeEncontrar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:text="Onde Encontrar?"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#000000" />
+    
+    <EditText
+        android:id="@+id/edtDescricaoOfertaDetalhar"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_gravity="top|left"
+        android:layout_marginTop="5dp"
+        android:ems="10"
+        android:textColor="#A9A9A9"
+        android:focusable="false"
+        android:inputType="textMultiLine" >
+
+        <requestFocus />
+    </EditText>
+
+    <TextView
+        android:id="@+id/txtDataFinalOfertaDetalhar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="5dp"
+        android:text="Medium Text"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#A9A9A9" />
+
+    <Button
+        android:id="@+id/btnAvaliarOferta"
+        android:layout_width="198dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/botao_laranja"
+        android:text="Avaliar"
+        android:textColor="#ffffff" />
+
+</LinearLayout>
+

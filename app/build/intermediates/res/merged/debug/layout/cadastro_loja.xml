@@ -1,0 +1,127 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="fill"
+    android:background="@drawable/fundoprincipal"
+    android:fillViewport="true"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    tools:context="br.com.hector.ofertaki.CadastroLojistaActivity" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="fill"
+            android:fitsSystemWindows="true"
+            android:background="#e8e9fb"
+            android:orientation="vertical"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="30dp"
+            android:scrollbars="none" >
+
+            <TextView 
+                
+                android:id="@+id/txtTituloCadstroOferta"
+                android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+                android:layout_marginBottom="15dp"
+                android:text="Cadastre sua Loja"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#179294"
+                
+                />
+            
+            <EditText
+                android:id="@+id/edtNomeLoja"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/barra_branca"
+                android:hint="Nome da Loja"
+                android:padding="5dp"
+                android:singleLine="true" />
+
+            <EditText
+                android:id="@+id/edtCnpj"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/barra_branca"
+                android:hint="CNPJ (somente números)"
+                android:padding="5dp"
+                android:singleLine="true" />
+
+            <Spinner
+                android:id="@+id/spnCategoria"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/barra_branca" />
+
+			<AutoCompleteTextView
+			    android:id="@+id/autocomplete"
+			    android:layout_width="match_parent"
+			    android:layout_height="40dp"
+			    android:padding="5dp"
+			    android:singleLine="true"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/barra_branca"
+			    android:ems="10"
+			    android:hint="Endereço" />
+            
+            <EditText
+                android:id="@+id/edtTelefone"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/barra_branca"
+                android:hint="Telefone (somente números)"
+                android:padding="5dp"
+                android:singleLine="true" />
+
+            <EditText
+                android:id="@+id/edtEmail"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/barra_branca"
+                android:layout_height="40dp"
+                android:padding="5dp"
+                android:layout_width="fill_parent"
+                android:singleLine="true"
+                android:hint="E-mail" />
+
+            <EditText
+                android:id="@+id/edtSenha"
+                android:layout_marginBottom="5dp"
+                android:padding="5dp"
+                android:background="@drawable/barra_branca"
+                android:layout_height="40dp"
+                android:singleLine="true"
+                android:layout_width="fill_parent"
+                android:password="true"
+                android:hint="Senha" />
+
+            <EditText
+                android:id="@+id/edtConfirmaSenha"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_marginBottom="30dp"
+                android:background="@drawable/barra_branca"
+                android:hint="Confirme a Senha"
+                android:singleLine="true"
+                android:padding="5dp"
+                android:password="true" />
+
+            <Button
+                android:id="@+id/btnConfirmaCadastro"
+                android:layout_width="198dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/botao_laranja"
+                android:text="Cadastrar"
+                android:textColor="#e9e8fb" />
+		
+        </LinearLayout>
+
+</ScrollView>

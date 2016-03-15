@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.com.hector.ofertaki"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+	
+    <uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+	<uses-permission android:name="android.permission.WAKE_LOCK" />
+	<uses-permission android:name="android.permission.VIBRATE" />
+	<uses-permission android:name="android.permission.GET_ACCOUNTS" />
+	<uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+ 
+	<permission android:protectionLevel="signature"
+    	android:name="br.com.hector.ofertaki.permission.C2D_MESSAGE" />
+	<uses-permission android:name="br.com.hector.ofertaki.permission.C2D_MESSAGE" />
+    
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="21" />
+
+    <application
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:allowBackup="true"
+        android:name="br.com.hector.ofertaki.IniciarServicos"
+        android:icon="@drawable/ic_principal"
+        android:logo="@drawable/logo_branco"
+        android:theme="@style/CustomActionBarTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait"
+            android:label=""
+            android:theme="@style/CustomActionBarTheme"
+            android:windowSoftInputMode="adjustResize"
+             >
+        </activity>
+        
+        <activity android:name=".PagerDetalharOfertaActivity"
+            android:label=""
+            android:theme="@style/CustomActionBarTheme"
+            android:screenOrientation="portrait"
+            android:parentActivityName="br.com.hector.ofertaki.MainActivity">
+            
+            <meta-data 
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="br.com.hector.ofertaki.MainActivity"
+                />
+        </activity>
+        
+        <activity
+            android:name=".TelaInicialActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+            
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+		
+        <meta-data 
+            android:name="android.app.searcheable"
+            android:resource="@xml/searcheable"/>
+        
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyCfawvl1dGcI7zuMhXOtzVX07hOmobTW6U"/>
+            
+            
+            <!-- android:value="AIzaSyA3O3i1HwXOK3KVZcpKQhh7GtJS6oJQWGU"/>-->
+
+        <service android:name="com.parse.PushService" />
+		<receiver android:name="br.com.hector.ofertaki.NotificacoesOferta"
+   			 android:exported="false">
+ 			 <intent-filter>
+   				 <action android:name="com.parse.push.intent.RECEIVE" />
+  			  	 <action android:name="com.parse.push.intent.DELETE" />
+    			 <action android:name="com.parse.push.intent.OPEN" />
+   			 </intent-filter>
+		</receiver>
+		<receiver android:name="com.parse.GcmBroadcastReceiver"
+   			 android:permission="com.google.android.c2dm.permission.SEND">
+  			<intent-filter>
+    			<action android:name="com.google.android.c2dm.intent.RECEIVE" />
+    			<action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+   				<category android:name="br.com.hector.ofertaki" />
+  			</intent-filter>
+		</receiver>
+		
+		<meta-data android:name="com.parse.notification_icon" android:resource="@drawable/ic_em_lista"/>
+		
+    </application>
+</manifest>

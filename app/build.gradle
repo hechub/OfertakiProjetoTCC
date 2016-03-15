@@ -1,0 +1,33 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 'Google Inc.:Google APIs:23'
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        applicationId "br.com.hector.ofertaki"
+        minSdkVersion 16
+        targetSdkVersion 21
+        compileOptions {
+            sourceCompatibility JavaVersion.VERSION_1_7
+            targetCompatibility JavaVersion.VERSION_1_7
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:22.2.1'
+    compile 'com.google.android.gms:play-services:+'
+    compile files('libs/acra-4.7.0-RC.1-sources.jar')
+    compile files('libs/bolts-android-1.2.0-javadoc.jar')
+    compile files('libs/bolts-android-1.2.0.jar')
+    compile files('libs/Parse-1.9.1.jar')
+    compile files('libs/ParseCrashReporting-1.9.1.jar')
+}

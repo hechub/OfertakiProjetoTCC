@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RatingBar
+        android:id="@+id/rtBarNotaOfertaAvaliar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/txtNomeLojaMenu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/rtBarNotaOfertaAvaliar"
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"
+        android:text="Título"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#179294" />
+
+    <EditText
+        android:id="@+id/edtTituloOfertaAvaliar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtNomeLojaMenu"
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentLeft="true"
+        android:ems="10" >
+
+        <requestFocus />
+    </EditText>
+
+    <TextView
+        android:id="@+id/txtEmailLojaMenu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edtTituloOfertaAvaliar"
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"
+        android:layout_marginTop="10dp"
+        android:text="Comentário"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#179294" />
+
+    <EditText
+        android:id="@+id/edtComentarioAvaliar"
+        android:layout_width="wrap_content"
+        android:layout_height="75dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/txtEmailLojaMenu"
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"
+        android:ems="10"
+        android:inputType="textMultiLine" />
+
+    <TextView
+        android:id="@+id/txtOkAvaliarOferta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/edtComentarioAvaliar"
+        android:layout_below="@+id/edtComentarioAvaliar"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="20dp"
+        android:text="Ok"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#179294" />
+
+    <ProgressBar
+        android:id="@+id/proBarSalvarAvaliacao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/edtComentarioAvaliar"
+        android:minHeight="60dp"
+        android:minWidth="60dp" />
+
+</RelativeLayout>

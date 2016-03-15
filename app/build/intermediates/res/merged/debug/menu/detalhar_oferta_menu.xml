@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="br.com.hector.ofertaki.CadastroLojistaActivity" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+    
+    <item 
+        android:id="@+id/acao_favoritos"
+        android:icon="@drawable/ic_addfavoritos"
+        android:title="Favoritos"
+        android:showAsAction="always"
+        />
+</menu>

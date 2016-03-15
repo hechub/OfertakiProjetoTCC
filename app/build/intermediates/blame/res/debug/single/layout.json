@@ -1,0 +1,262 @@
+[
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\busca_dialog.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\src\\main\\res\\layout\\busca_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\auto_complete.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\src\\main\\res\\layout\\auto_complete.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cadastro_oferta.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\src\\main\\res\\layout\\cadastro_oferta.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_adapter_avaliacoes.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\src\\main\\res\\layout\\custom_adapter_avaliacoes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\container_principal.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\src\\main\\res\\layout\\container_principal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cadastro_loja.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\src\\main\\res\\layout\\cadastro_loja.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\conteudo_lista_detalhe_loja.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\src\\main\\res\\layout\\conteudo_lista_detalhe_loja.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_menu.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\src\\main\\res\\layout\\custom_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lista_ofertas.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\src\\main\\res\\layout\\lista_ofertas.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_pager_detalhar_oferta.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\src\\main\\res\\layout\\view_pager_detalhar_oferta.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loader.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\src\\main\\res\\layout\\loader.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detalhar_oferta.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\src\\main\\res\\layout\\detalhar_oferta.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragmento_mapa.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\src\\main\\res\\layout\\fragmento_mapa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tela_inicial.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\src\\main\\res\\layout\\activity_tela_inicial.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\avaliar_dialog.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\src\\main\\res\\layout\\avaliar_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pager_detalhar_oferta.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\src\\main\\res\\layout\\pager_detalhar_oferta.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_onde_encontrar.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\src\\main\\res\\layout\\dialog_onde_encontrar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\head_menu.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\src\\main\\res\\layout\\head_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lista_detalhar_oferta.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\src\\main\\res\\layout\\lista_detalhar_oferta.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\configuracoes_view.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\src\\main\\res\\layout\\configuracoes_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_lista_favoritos_view.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\src\\main\\res\\layout\\adapter_lista_favoritos_view.xml"
+    }
+]

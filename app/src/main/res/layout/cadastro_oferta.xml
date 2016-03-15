@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="fill"
+    android:background="@drawable/fundoprincipal"
+    android:fillViewport="true"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    tools:context="br.com.hector.ofertaki.CadastroLojistaActivity" >
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e8e9fb"
+    android:padding="5dp"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/txtNomeLojaMenu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:text="Cadastre sua Oferta"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#179294" />
+
+    <EditText
+        android:id="@+id/edtTituloOferta"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/barra_branca"
+        android:ems="10"
+        android:hint="Título da Oferta"
+        android:paddingLeft="5dp"
+        android:singleLine="true" >
+
+        <requestFocus />
+    </EditText>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:layout_marginBottom="0dp"
+        android:layout_marginTop="10dp"
+        android:layout_weight="0" >
+
+        <ImageView
+            android:id="@+id/imvImagemOferta"
+            android:layout_width="166dp"
+            android:layout_height="114dp"
+            android:layout_marginTop="5dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/ic_imagem_oferta" />
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="6dp"
+            android:background="#e8e9fb"
+            android:orientation="vertical"
+            android:paddingRight="5dp" >
+        
+        <EditText
+            android:id="@+id/edtPrecoOferta"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="17dp"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/barra_branca"
+            android:ems="10"
+            android:hint="R$ 00.00"
+            android:numeric="decimal"
+            android:paddingLeft="5dp"
+            android:singleLine="true" />
+
+        <EditText
+            android:id="@+id/edtDataFinalOferta"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginLeft="6dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/barra_branca"
+            android:ems="10"
+            android:hint="Validade"
+            android:paddingLeft="5dp"
+            android:singleLine="true" />
+        
+    </LinearLayout></LinearLayout>
+
+    <EditText
+        android:id="@+id/edtDescricaoOferta"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/campo_descricao_bg"
+        android:ems="10"
+        android:hint="Descrição da Oferta"
+        android:inputType="textMultiLine"
+        android:paddingLeft="5dp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:paddingLeft="8dp" >
+
+         <CheckBox
+             android:id="@+id/ckBoxMarcarMapa"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_gravity="center_horizontal"
+             android:text="Marcar esta oferta no mapa" />
+        
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnConfirmaCadastroOferta"
+        android:layout_width="198dp"
+        android:layout_height="30dp"
+        android:background="@drawable/botao_laranja"
+        android:layout_gravity="center_horizontal"
+        android:text="Cadastrar"
+        android:textColor="#e9e8fb" />
+
+</LinearLayout></ScrollView>

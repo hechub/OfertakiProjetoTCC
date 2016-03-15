@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#FFFFFF" >
+
+    <ImageView
+        android:id="@+id/imgLojaLogadaMenu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="false"
+        android:layout_centerInParent="false"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="10dp" />
+
+    <TextView
+        android:id="@+id/txtNomeLojaMenu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imgLojaLogadaMenu"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:layout_toRightOf="@+id/imgLojaLogadaMenu"
+        android:text="Minha Loja"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#A9A9A9" />
+
+    <TextView
+        android:id="@+id/txtEmailLojaMenu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txtNomeLojaMenu"
+        android:layout_below="@+id/txtNomeLojaMenu"
+        android:text="email@meuemail.com.br"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#000000" />
+    
+</RelativeLayout>

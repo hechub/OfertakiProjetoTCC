@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\cadastro_loja_menu.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\src\\main\\res\\menu\\cadastro_loja_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\detalhar_oferta_menu.xml",
+        "source": "C:\\Users\\Hector\\Documents\\TCC\\Ofertaki1\\app\\src\\main\\res\\menu\\detalhar_oferta_menu.xml"
+    }
+]
